@@ -10,7 +10,9 @@
 
   [https://stackshare.io/stackups/consul-vs-eureka-vs-zookeeper](https://stackshare.io/stackups/consul-vs-eureka-vs-zookeeper)
 - Artículos sobre Spring Cloud Consul 
+
   [https://www.paradigmadigital.com/dev/spring-cloud-consul-1-2-descubrimiento-microservicios/](https://www.paradigmadigital.com/dev/spring-cloud-consul-1-2-descubrimiento-microservicios/)    (1/2)
+  
   [https://www.paradigmadigital.com/dev/spring-cloud-consul-2-2-configuracion-centralizada/](https://www.paradigmadigital.com/dev/spring-cloud-consul-2-2-configuracion-centralizada/)    (2/2)
   
 # <u>**Instalar Consul**</u>
