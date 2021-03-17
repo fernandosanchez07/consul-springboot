@@ -15,7 +15,7 @@ consul agent -server -bootstrap-expect=1 -data-dir=consul-data -ui
 
 5) Si todo ha salido bien debe mostrarse al final **Consul agent running!**
 
-![](https://ibb.co/5RzBzvY)
+![Captura de pantalla (3)](https://user-images.githubusercontent.com/69404997/111504232-7318cc00-8715-11eb-97c3-498b50a9f6ab.png)
 
 # **<u>Integracion con Spring Boot</u>**
 
@@ -69,5 +69,5 @@ http://localhost:8500/
 
 Si todo ha se ejecutado correctamente  deberia mostrarse los microservicios que se encuentra ejecuntadose y conectado a consul
 
-![Captura de pantalla (4)](C:\Users\PC-5CDO35C7T9\Pictures\Screenshots\Captura de pantalla (4).png)
+![Captura de pantalla (4)](https://user-images.githubusercontent.com/69404997/111504242-7613bc80-8715-11eb-98eb-d409dbbb8bf6.png)
 
