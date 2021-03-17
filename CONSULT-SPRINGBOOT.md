@@ -34,7 +34,7 @@ consul agent -server -bootstrap-expect=1 -data-dir=consul-data -ui
 
 ![Captura de pantalla (3)](https://user-images.githubusercontent.com/69404997/111504232-7318cc00-8715-11eb-97c3-498b50a9f6ab.png)
 
-# **<u>Integracion con Spring Boot</u>**
+# **<u>Integracion basica de Consul con Spring Boot</u>**
 
 **Requisitos:**
 
