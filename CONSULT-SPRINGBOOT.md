@@ -15,7 +15,7 @@ consul agent -server -bootstrap-expect=1 -data-dir=consul-data -ui
 
 5) Si todo ha salido bien debe mostrarse al final **Consul agent running!**
 
-![https://ibb.co/5RzBzvY]()
+![](https://ibb.co/5RzBzvY)
 
 # **<u>Integracion con Spring Boot</u>**
 
