@@ -15,7 +15,7 @@ consul agent -server -bootstrap-expect=1 -data-dir=consul-data -ui
 
 5) Si todo ha salido bien debe mostrarse al final **Consul agent running!**
 
-![Captura de pantalla (3)](C:\Users\PC-5CDO35C7T9\Pictures\Screenshots\Captura de pantalla (3).png)
+![https://ibb.co/5RzBzvY]()
 
 # **<u>Integracion con Spring Boot</u>**
 
