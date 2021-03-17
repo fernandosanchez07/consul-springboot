@@ -84,7 +84,7 @@ spring:
 http://localhost:8500/
 ```
 
-Si todo ha se ejecutado correctamente  deberia mostrarse los microservicios que se encuentra ejecuntadose y conectado a consul
+Si todo se ha ejecutado correctamente  deberia mostrarse los microservicios que se encuentran en ejecucion y conectados a consul
 
 ![Captura de pantalla (4)](https://user-images.githubusercontent.com/69404997/111504242-7613bc80-8715-11eb-98eb-d409dbbb8bf6.png)
 
