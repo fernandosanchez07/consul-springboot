@@ -8,6 +8,7 @@
 
   [https://stackoverflow.com/questions/48635782/what-is-the-role-of-zookeeper-vs-eureka-for-microservices](https://stackoverflow.com/questions/48635782/what-is-the-role-of-zookeeper-vs-eureka-for-microservices)
 
+  [https://stackshare.io/stackups/consul-vs-eureka-vs-zookeeper](https://stackshare.io/stackups/consul-vs-eureka-vs-zookeeper)
   
 
 # <u>**Instalar Consul**</u>
