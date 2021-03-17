@@ -2,11 +2,11 @@
 
 - **Comparacion de Consul Vs Eureka**
 
-  [](https://gist.github.com/StevenACoffman/de394d6511a387ada9ab988e33be8583)
+  [https://gist.github.com/StevenACoffman/de394d6511a387ada9ab988e33be8583](https://gist.github.com/StevenACoffman/de394d6511a387ada9ab988e33be8583)
 
 - Comparacion entre diferentes tecnologias para el descubrimiento de microservicios.
 
-  [](https://stackoverflow.com/questions/48635782/what-is-the-role-of-zookeeper-vs-eureka-for-microservices)
+  [https://stackoverflow.com/questions/48635782/what-is-the-role-of-zookeeper-vs-eureka-for-microservices](https://stackoverflow.com/questions/48635782/what-is-the-role-of-zookeeper-vs-eureka-for-microservices)
 
   
 
