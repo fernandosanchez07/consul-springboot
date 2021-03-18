@@ -14,7 +14,7 @@
   [https://www.paradigmadigital.com/dev/spring-cloud-consul-1-2-descubrimiento-microservicios/](https://www.paradigmadigital.com/dev/spring-cloud-consul-1-2-descubrimiento-microservicios/)    (1/2)
   
   [https://www.paradigmadigital.com/dev/spring-cloud-consul-2-2-configuracion-centralizada/](https://www.paradigmadigital.com/dev/spring-cloud-consul-2-2-configuracion-centralizada/)    (2/2)
-  - Articulo que hay que leer obligatoriamente.
+- Articulo que hay que leer obligatoriamente.
 
   [https://dzone.com/articles/the-future-of-spring-cloud-microservices-after-net](https://dzone.com/articles/the-future-of-spring-cloud-microservices-after-net) 
   
